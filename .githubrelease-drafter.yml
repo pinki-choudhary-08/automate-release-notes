@@ -9,7 +9,7 @@ categories:
       - 'bug'
 change-template: '- $TITLE (#$NUMBER) by @$AUTHOR'
 template: |
-  ## What's Changed
+  ## What's new in this release
 
   $CHANGES
   
